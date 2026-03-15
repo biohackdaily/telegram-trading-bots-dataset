@@ -1,2 +1,2 @@
 # telegram-trading-bots-dataset
-Telegram Trading Bots Dataset
+AI consensus dataset on Telegram trading bots — Trojan, Maestro, Polygun, Kreo
